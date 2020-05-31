@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">VSCO</string>
+    <string name="activity_title_main">VSCO</string>
+    <string name="action_settings">Settings</string>
+    <string name="presets">PRESETS</string>
+    <string name="adjust">ADJUST</string>
+    <string name="edit">EDIT</string>
+
+    <string name="lbl_brightness">BRIGHTNESS</string>
+    <string name="lbl_contrast">CONTRAST</string>
+    <string name="lbl_blur">BLUR</string>
+    <string name="lbl_saturation">SATURATION</string>
+    <string name="lbl_temperature">TEMPERATURE</string>
+    <string name="lbl_vignette">VIGNETTE</string>
+    <string name="lbl_width">WIDTH</string>
+    <string name="lbl_height">HEIGHT</string>
+    <string name="lbl_R">R</string>
+    <string name="lbl_G">G</string>
+    <string name="lbl_B">B</string>
+    <string name="tab_filters">FILTERS</string>
+    <string name="tab_edit">EDIT</string>
+
+
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="filter_normal">Normal</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_open">OPEN</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
